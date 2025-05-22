@@ -1,3 +1,7 @@
 Hello login
 Chỉnh sửa lần một
+
+Máy thêm code để làm tính năng đăng nhập google
+
 Thêm code của máy B để làm tính năng đăng nhập Facebook
+
